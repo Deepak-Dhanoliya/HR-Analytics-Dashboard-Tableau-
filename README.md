@@ -60,7 +60,7 @@ HR-Dashboard-Tableau/
 ├── data/
 │   └── hr_data.xlsx               # Sample HR dataset used for dashboard
 |   └── Icons & Images             # Icons and Images used in dashboard   
-├── screenshots/
+├── Screenshots/
 │   └── HR Detail.png              # Visuals of dashboard
 │   └── HR Overview.png            # Visuals of dashboard
 ├── README.md                      # Project overview and instructions
@@ -70,6 +70,7 @@ HR-Dashboard-Tableau/
 ## 🙏 Credits
 
 Special thanks to **[Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/)** for the tutorial and inspiration.
+👉 [Tutorial Link](https://youtu.be/UcGF09Awm4Y?si=QynJrb_FhGD__l1i)
 
 ---
 
