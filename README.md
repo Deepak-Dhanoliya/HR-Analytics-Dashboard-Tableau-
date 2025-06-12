@@ -1,57 +1,76 @@
-# HR Analytics Dashboard (Tableau)
+# 📊 HR Analytics Dashboard (Tableau)
 
-![HR Dashboard Banner](https://github.com/user-attachments/assets/a5bccd42-f1d6-4fc8-9648-2e8614890bce) 
-*A comprehensive HR dashboard built using Tableau to visualize key workforce metrics.*
+A comprehensive and interactive HR dashboard built using Tableau. This project visualizes key employee data to provide insights into workforce demographics, hiring trends, salaries, and performance metrics.
 
----
-
-## 📊 Project Overview
-
-This project is a recreation of an HR analytics dashboard inspired by [Data with Baara](https://www.youtube.com/@datawithbaara). It focuses on turning raw HR data into actionable insights using Tableau’s data visualization capabilities.
-
-The dashboard enables HR professionals and decision-makers to analyze workforce trends, monitor employee performance, and track attrition metrics in an interactive and insightful way.
+Inspired by a tutorial from [Data with Baara (Baraa Khatib Salkini)](https://youtu.be/UcGF09Awm4Y?si=QynJrb_FhGD__l1i), this project helped me enhance my Tableau skills and understand best practices for real-world HR analytics dashboards.
 
 ---
 
-## 🔍 Key Features
+## 🖥️ Dashboard Views
 
-- **Executive Summary View**  
-  Overview of employee headcount, attrition and hiring trends, department distribution, and location insights.
+### 1️⃣ HR Summary View
 
-- **Demographic Analysis**  
-  Interactive visualizations showing employee data by gender, age groups, education levels, and performance ratings.
+![HR  Detail](https://github.com/user-attachments/assets/591c5f90-41cb-4cc8-a70a-96be7b6e6820)
 
-- **Income Insights**  
-  Salary comparisons across departments, gender, education, and age groups.
 
-- **Employee Detail Table**  
-  Searchable and filterable view of individual employee records, including roles, salaries, tenure, and locations.
+This dashboard provides a high-level overview of key HR metrics:
 
----
+#### ✅ **Overview Section**
+- **Active Employees**: Total currently employed.
+- **Hired & Terminated**: Total employees hired vs. those who have left.
+- **Hiring & Attrition Trend Lines**: Month-over-month view of workforce changes.
 
-## 🛠️ Tools & Technologies
+#### ✅ **Department Distribution**
+- Horizontal bar chart showing number of employees hired and terminated per department.
 
-- **Tableau Public** (for dashboard creation and visualization)
-- **Microsoft Excel** (used as a data source)
-- **Calculated Fields** (for age groups, tenure buckets, etc.)
-- **Filters, Parameters, Maps, and Charts** (for interactivity)
+#### ✅ **Geographic Breakdown**
+- Interactive map showing employee count by U.S. state.
+- Vertical bar chart comparing headcount at HQ vs. branch locations.
 
----
+#### ✅ **Demographic Analysis**
+- **Gender Ratio**: Side-by-side donut charts of male and female employee percentages.
+- **Education & Age Distribution**: Dot matrix showing education level by age group.
+- **Education & Performance Matrix**: Heatmap-style view of employee performance by education level.
 
-## 🚀 Getting Started
-
-1. Clone this repository or download the files.
-2. Open the Excel data file in Tableau.
-3. Recreate or explore the dashboard using Tableau Desktop or Tableau Public.
-4. Alternatively, view the live version directly on Tableau Public (see below).
+#### ✅ **Income Analysis**
+- **Education & Gender Salary Comparison**: Horizontal chart showing average salaries by education level for male and female employees.
+- **Age & Salary Scatter Plot**: Insights into how salary varies by age and role (e.g., IT Manager, Finance Manager).
 
 ---
 
-## 🔗 Live Dashboard
+### 2️⃣ HR Employee Detail View
 
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/deepak.dhanoliya/viz/HRDashboard_17429822855500/HRSummary)
+![HR Overview](https://github.com/user-attachments/assets/58378a13-383f-4c31-b0aa-651abd4f03fb)
+
+
+This dashboard offers a searchable, filterable employee-level dataset for detailed analysis.
+
+#### ✅ **Fields Included**
+- **Employee ID**: Unique identifier for each employee.
+- **Demographic Info**: Age and education level.
+- **Role & Department**
+- **Geographic Location**: City and state.
+- **Salary**
+- **Hiring Status**: All current employees are listed as "Hired."
+- **Length of Employment**: Automatically calculated and displayed in years.
+
+#### ✅ **Use Case**
+This view is helpful for HR professionals conducting audits, preparing performance reviews, or analyzing trends in retention, compensation, and workforce diversity.
 
 ---
+
+## 🛠️ Tools & Skills Applied
+
+- **Tool:** Tableau Public  
+- **Data Source:** Microsoft Excel (.xlsx)  
+- **Skills:**  
+  - Data cleaning & transformation  
+  - Calculated fields (age buckets, tenure, performance mapping)  
+  - Dashboard layout & design  
+  - Maps, filters, parameters, tooltips  
+
+---
+
 
 ## 📁 Repository Structure
 
@@ -66,6 +85,13 @@ HR-Dashboard-Tableau/
 ├── README.md                      # Project overview and instructions
 
 ```
+
+## 🌐 Live Dashboard
+
+👉 [View it on Tableau Public](https://public.tableau.com/app/profile/deepak.dhanoliya/viz/HRDashboard_17429822855500/HRSummary)
+
+---
+
 
 ## 🙏 Credits
 
