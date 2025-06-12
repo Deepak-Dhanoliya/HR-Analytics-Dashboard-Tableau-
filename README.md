@@ -10,7 +10,7 @@ Inspired by a tutorial from [Data with Baara (Baraa Khatib Salkini)](https://www
 
 ### 1️⃣ HR Summary View
 
-![HR  Detail](https://github.com/user-attachments/assets/591c5f90-41cb-4cc8-a70a-96be7b6e6820)
+![HR Overview](https://github.com/user-attachments/assets/58378a13-383f-4c31-b0aa-651abd4f03fb)
 
 
 This dashboard provides a high-level overview of key HR metrics:
@@ -40,8 +40,7 @@ This dashboard provides a high-level overview of key HR metrics:
 
 ### 2️⃣ HR Employee Detail View
 
-![HR Overview](https://github.com/user-attachments/assets/58378a13-383f-4c31-b0aa-651abd4f03fb)
-
+![HR  Detail](https://github.com/user-attachments/assets/591c5f90-41cb-4cc8-a70a-96be7b6e6820)
 
 This dashboard offers a searchable, filterable employee-level dataset for detailed analysis.
 
