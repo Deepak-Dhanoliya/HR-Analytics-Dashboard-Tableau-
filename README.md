@@ -70,7 +70,6 @@ HR-Dashboard-Tableau/
 ## 🙏 Credits
 
 Special thanks to **[Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/)** for the tutorial and inspiration.
-
 👉 [Tutorial Link](https://youtu.be/UcGF09Awm4Y?si=QynJrb_FhGD__l1i)
 
 ---
