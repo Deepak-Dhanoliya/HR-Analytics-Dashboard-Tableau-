@@ -59,8 +59,10 @@ The dashboard enables HR professionals and decision-makers to analyze workforce 
 HR-Dashboard-Tableau/
 ├── data/
 │   └── hr_data.xlsx               # Sample HR dataset used for dashboard
+|   └── Icons & Images             # Icons and Images used in dashboard   
 ├── screenshots/
-│   └── dashboard_summary.png      # Visuals of dashboard (optional)
+│   └── HR Detail.png              # Visuals of dashboard
+│   └── HR Overview.png            # Visuals of dashboard
 ├── README.md                      # Project overview and instructions
 
 ```
