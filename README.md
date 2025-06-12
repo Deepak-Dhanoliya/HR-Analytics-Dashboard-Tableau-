@@ -1,6 +1,6 @@
 # HR Analytics Dashboard (Tableau)
 
-![HR Dashboard Banner](https://public.tableau.com/thumb/views/HRDashboard_17429822855500/HRSummary)  
+![HR Dashboard Banner](https://github.com/user-attachments/assets/a5bccd42-f1d6-4fc8-9648-2e8614890bce) 
 *A comprehensive HR dashboard built using Tableau to visualize key workforce metrics.*
 
 ---
