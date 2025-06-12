@@ -2,7 +2,7 @@
 
 A comprehensive and interactive HR dashboard built using Tableau. This project visualizes key employee data to provide insights into workforce demographics, hiring trends, salaries, and performance metrics.
 
-Inspired by a tutorial from [Data with Baara (Baraa Khatib Salkini)](https://youtu.be/UcGF09Awm4Y?si=QynJrb_FhGD__l1i), this project helped me enhance my Tableau skills and understand best practices for real-world HR analytics dashboards.
+Inspired by a tutorial from [Data with Baara (Baraa Khatib Salkini)](https://www.youtube.com/@DataWithBaraa), this project helped me enhance my Tableau skills and understand best practices for real-world HR analytics dashboards.
 
 ---
 
@@ -95,7 +95,7 @@ HR-Dashboard-Tableau/
 
 ## 🙏 Credits
 
-Special thanks to **[Baraa Khatib Salkini](https://www.linkedin.com/in/baraa-khatib-salkini/)** for the tutorial and inspiration.
+Special thanks to **Baraa Khatib Salkini** for the tutorial and inspiration.
 
 👉 [Tutorial Link](https://youtu.be/UcGF09Awm4Y?si=QynJrb_FhGD__l1i)
 
