@@ -56,14 +56,23 @@ The dashboard enables HR professionals and decision-makers to analyze workforce 
 ## 📁 Repository Structure
 
 📦 HR-Dashboard-Tableau/
+
 │
+
 ├── 📁 data/
+
 │ └── hr_data.xlsx # Sample HR dataset used for dashboard
+
 │
+
 ├── 📁 screenshots/
+
 │ └── dashboard_summary.png # Visuals of dashboard (optional)
+
 │
+
 ├── 📄 README.md # Project overview and instructions
+
 
 ---
 
